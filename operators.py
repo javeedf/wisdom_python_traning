@@ -17,11 +17,11 @@ div = a / b  # 3.333...
 # Modulus: Returns the remainder of the division
 mod = a % b  # 1
 
-# Exponentiation: Raises the first operand to the power of the second
-exp = a ** b  # 1000
-
 # Floor Division: Divides and returns the largest integer less than or equal to the result
 floor_div = a // b  # 3
+
+# Exponentiation: Raises the first operand to the power of the second
+exp = a ** b  # 1000
 
 # Assignment Operators
 x = 5
